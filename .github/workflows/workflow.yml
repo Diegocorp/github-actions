@@ -1,9 +1,9 @@
-name: react CI
+name: React CI
 
 on:
   push:
     branches:
-      - "master"
+      - "main"
 
 jobs: 
   build:
